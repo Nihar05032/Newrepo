@@ -1,0 +1,65 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Profile container */
+.profile {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Profile heading */
+.profile h1 {
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Profile paragraphs */
+.profile p {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+/* About Me and Projects headings */
+.profile h2 {
+    color: #555;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Projects list */
+.profile ul {
+    margin-bottom: 20px;
+}
+
+/* Projects list items */
+.profile li {
+    margin-bottom: 5px;
+}
+
+/* Contact section */
+.profile h2:last-child {
+    margin-top: 20px;
+}
+
+/* LinkedIn link */
+.profile a {
+    color: #0077b5;
+    text-decoration: none;
+}
+
+/* LinkedIn link on hover */
+.profile a:hover {
+    text-decoration: underline;
+}
